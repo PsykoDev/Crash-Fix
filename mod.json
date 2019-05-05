@@ -1,0 +1,8 @@
+{
+	"name": "Crash-Fix",
+	"update": "github:PsykoDev/Crash-Fix",
+	"conflicts": ["Crash-Fix"],
+	"title": "Crash-Fix",
+	"authors": ["PsykoDev"],
+	"description": "Prevent Crash-Fix "
+}

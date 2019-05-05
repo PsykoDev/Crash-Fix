@@ -1,0 +1,12 @@
+{
+    "author": "PsykoDev",
+    "description": "",
+    "disableAutoUpdate": false,
+    "name": "Crash-Fix",
+    "options": {
+        "reloadable": false
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Crash-Fix/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Crash-Fix/blob/master/README.md",
+    "version": "1"
+}

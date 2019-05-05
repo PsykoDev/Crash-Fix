@@ -1,0 +1,12 @@
+{
+    "files": {
+        "index.js": "e6e43dea67ad813ed8ec4f2b9f1285f7a38837fe5750f45e7c794581e0d87366",
+        "mod.json": "a01fc6ca76a3ccc8636d3b836733a796dd66d06537cb87c7e9d83be0450ac31d",
+        "module.json": "2a098b43fc3ebfe79218f79ebadd0d7e2539f2ab8f30d264860e4df70c55ba94"
+    },
+    "defs": {
+        "S_ACTION_STAGE": 9,
+        "S_ACTION_END": 5,
+        "S_ABNORMALITY_REFRESH": 1
+    }
+}
